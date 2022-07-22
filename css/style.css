@@ -10,6 +10,7 @@
 
 body {
   background: var(--background);
+  overflow: hidden;
 }
 body > div {
   transform: translateY(-100px);
